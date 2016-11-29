@@ -1,0 +1,37 @@
+.postFeed {
+  margin: 90px 0 40px;
+}
+
+.postFeed a {
+  display: block;
+  width: 740px;
+  margin: 10px auto;
+  padding: 20px;
+  background-color: white;
+  box-shadow: 0 1px 4px 0 rgba(0,0,0,.05);
+  border: 1px solid rgba(0, 0, 0, .1);
+}
+
+.postFeed figure {
+  width: 700px;
+  height: 200px;
+  background: blue;
+  margin-bottom: 31px;
+  background-size: cover;
+  background-position: center;
+}
+
+.postFeed h2 {
+  font-size: 28px;
+  line-height: 34px;
+  margin-top: 10px;
+
+}
+
+.postFeed p {
+  font-size: 22px;
+  line-height: 32px;
+  margin-top: 7px;
+  margin-bottom: 11px;
+  color: rgba(0, 0, 0, .4);
+}
